@@ -1,0 +1,2 @@
+@api =http://localhost/{{$timestamp}}
+GET{{api}}
